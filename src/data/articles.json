@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "article_1",
+		"subject": "Book desc",
+		"details": "This article having details about article 1"
+	},
+	{
+		"id": 2,
+		"name": "article_2",
+		"subject": "Book desc",
+		"details": "This article having details about article 2"
+	},
+	{
+		"id": 3,
+		"name": "article_3",
+		"subject": "Book desc",
+		"details": "This article having details about article 3"
+	},
+	{
+		"id": 4,
+		"name": "article_4",
+		"subject": "Book desc",
+		"details": "This article having details about article 4"
+	}
+]

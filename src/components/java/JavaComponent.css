@@ -1,0 +1,207 @@
+#container {
+  width: 100%;
+  margin: 0 auto;
+  background-color: #f9f4f4;
+  border-radius: 5px;
+  padding: 0;
+}
+
+.java{
+    text-align: left;
+    padding: 10px 15px 10px 15px;
+}
+
+#menu,
+#menu2 {
+  width: 1%;
+  margin-top: 5px;
+  float: left;
+}
+
+div.onlycontent {
+  margin-left: 10px;
+  margin-top: 15px;
+  margin-right: 4px;
+  width: 65%;
+  float: left;
+  padding: 10px 15px 10px 15px;
+  background-color: #fff;
+}
+
+@media screen and (min-width: 1025px) and (max-width: 2200px) {
+  .codeblock3 {
+    width: 850px;
+    overflow-x: scroll;
+  }
+  .dp-highlighter {
+    width: 850px;
+    overflow-x: scroll;
+  }
+  #menu {
+    width: 16%;
+  }
+  #link {
+    height: 46px;
+    overflow: hidden;
+  }
+  .footerad1024,
+  .headermobilead,
+  .headershortad,
+  .mobilemenu,
+  .right1024 {
+    display: none;
+  }
+  .alt {
+    width: 100%;
+  }
+  img.imageright {
+    margin-left: 20px;
+    float: right;
+  }
+}
+
+#leftmenu2 span {
+  font-family: erdana, helvetica, arial, sans-serif;
+  color: #610b38;
+  padding-left: 28px;
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.selected {
+  color: #610b38;
+}
+
+#leftmenu2 a:active,
+#leftmenu2 a:hover,
+#leftmenu2 a:link,
+#leftmenu2 a:visited {
+  width: 180px;
+  margin-left: 0;
+  margin-top: 5px;
+  float: left;
+  padding-left: 0;
+  color: #610b38;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+#leftmenu2interview span {
+  color: green;
+  font: 16px/1.5 times new roman;
+  font-weight: 700;
+}
+
+#leftmenu2interview a:link,
+#leftmenu2interview a:visited {
+  font: 16px/1.5 times new roman;
+  width: 185px;
+  margin-left: 4px;
+  margin-top: 7px;
+  float: left;
+  color: green;
+  text-decoration: underline;
+}
+
+#leftmenu2interview a:erview a:hover {
+  background-color: #fff0f3;
+  text-decoration: none;
+}
+
+#leftmenu2interview a:visited {
+  font-weight: 700;
+}
+
+#leftmenu2interview a:active {
+  font: 16px/1.5 times new roman;
+  width: 185px;
+  margin-left: 4px;
+  margin-top: 7px;
+  float: left;
+  color: green;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+#next,
+.next {
+  font: 13px/1.5 Verdana;
+  padding: 2px 30px;
+  background-color: #1abc9c;
+  color: #fff;
+  font-weight: 700;
+  text-decoration: none;
+}
+
+#interview td {
+  color: #000;
+  font: 13px verdana, helvetica, arial, sans-serif;
+}
+
+#interview h2 {
+  color: #fff;
+  font-size: 20px;
+}
+
+#interview h3 {
+  font-family: erdana, helvetica, arial, sans-serif;
+  font-size: 18px;
+  color: #610b38;
+}
+
+#interview a:hover {
+  color: red;
+  text-decoration: none;
+}
+
+#download a,
+.download a {
+  font: 17px/1.5 tahoma;
+  color: red;
+}
+
+#leftmenu a:active,
+#leftmenu a:hover,
+#leftmenu a:link,
+#leftmenu a:visited {
+  font: 13px/1.5 Verdana;
+  width: 160px;
+  margin-left: 14px;
+  margin-top: 2px;
+
+  padding-left: 15px;
+  float: left;
+}
+
+#download a:hover {
+  color: green;
+  text-decoration: none;
+}
+
+.download a:hover {
+  color: green;
+  text-decoration: none;
+}
+
+#headerlink {
+  color: #610b38;
+  height: 25px;
+}
+
+a {
+  color: green;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+button {
+  font-size: 10px;
+  font-style: italic;
+  color: white;
+  padding: 15px 15px 15px 15px;
+  background-color: green;
+}

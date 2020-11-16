@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "java1",
+		"subject": "Book desc",
+		"details": "desc"
+	},
+	{
+		"id": 2,
+		"name": "java2",
+		"subject": "Book desc",
+		"details": "desc"
+	},
+	{
+		"id": 3,
+		"name": "java3",
+		"subject": "Book desc",
+		"details": "desc"
+	},
+	{
+		"id": 4,
+		"name": "java4",
+		"subject": "Book desc",
+		"details": "desc"
+	}
+]

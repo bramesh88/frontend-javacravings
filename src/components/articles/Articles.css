@@ -1,0 +1,12 @@
+.articles{
+    text-align: left;
+    padding: 10px 15px 10px 15px;
+}
+.article{
+    bottom: 0;
+    padding-top: 10px;
+}
+.backto{
+    bottom: 0;
+    padding-top: 180px;
+}

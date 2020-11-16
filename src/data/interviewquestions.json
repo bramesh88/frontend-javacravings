@@ -1,0 +1,26 @@
+[
+	{
+		"id": 1,
+		"name": "core_interview_questions",
+		"subject": "Core java interview questions",
+		"details": "Core java interview questions and anwers"
+	},
+	{
+		"id": 2,
+		"name": "spring_interview_questions",
+		"subject": "Spring interview questions",
+		"details": "Spring interview questions"
+	},
+	{
+		"id": 3,
+		"name": "hibernate_interview_questions",
+		"subject": "Hibernate interview questions",
+		"details": " Hibernate questions and anwsers"
+	},
+	{
+		"id": 4,
+		"name": "aws_interview_questions",
+		"subject": "AWS interview questions",
+		"details": "AWS questions and anwsers"
+	}
+]
